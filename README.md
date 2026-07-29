@@ -135,6 +135,3 @@ Payment Gateway Integration
 
 ---
 
-## Author
-
-Your Name
